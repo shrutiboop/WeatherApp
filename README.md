@@ -17,3 +17,9 @@ The purpose of this project is to understand how RESTful APIs work and how they 
 - Adding error handling for cases where the API request fails or the city is not found.
 
 Overall, this project serves as a valuable learning experience for anyone looking to expand their knowledge of full-stack development and API integration.
+
+
+### Sample Pictures to show how it works
+<img width="756" alt="Screenshot 2024-05-25 at 7 28 12 PM" src="https://github.com/shrutiboop/WeatherApp/assets/64666409/78dd3b1c-937e-4a61-a590-56bee5936b68">
+<img width="791" alt="Screenshot 2024-05-25 at 7 28 04 PM" src="https://github.com/shrutiboop/WeatherApp/assets/64666409/644f62b6-c1f9-4adb-a237-ab491fe6e24f">
+<img width="797" alt="Screenshot 2024-05-25 at 7 28 18 PM" src="https://github.com/shrutiboop/WeatherApp/assets/64666409/bce977b4-2744-44a6-9288-6a8dd07b888a">
