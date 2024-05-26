@@ -1,6 +1,6 @@
 function getWeather() {
     const location = document.getElementById('locationInput').value;
-    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=e18ada8d57931e292f54697fae93392f&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location}&"your API Key"&units=metric`)
         
         .then(response => response.json())
         .then(data => {
